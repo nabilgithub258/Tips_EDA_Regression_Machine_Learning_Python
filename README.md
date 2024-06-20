@@ -22,7 +22,7 @@ Additional Python libraries required:
 - Pandas
 - Matplotlib
 - Seaborn
-- NumPy (if used)
+- NumPy
 
 Install the necessary libraries using pip:
 ```bash
