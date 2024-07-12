@@ -33,4 +33,12 @@ pip install pandas matplotlib seaborn numpy
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please create an issue or a pull request in this repository.
 
+## Update
+
+We conducted an analysis to predict the tips given by customers using regression models. We implemented linear regression and random forest algorithms, and further enhanced our models by incorporating GridSearchCV and RandomizedSearchCV to optimize hyperparameters. Our most successful model combined random forest with GridSearchCV, yielding the best predictive performance.
+
+While the primary purpose of this tips dataset is not typically for prediction or modeling, we took on this challenge to test and refine our skills.
+
+
+
 ---
